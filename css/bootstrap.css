@@ -42,7 +42,7 @@
 }
 .li {
     display: inline;
-    float: right;
+    float: left;
     background-color: darkslategray;
     columns: 5;
     height: 30px;
