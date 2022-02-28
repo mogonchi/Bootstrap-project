@@ -36,3 +36,14 @@
 ,bg-danger {
     color: darkmagenta;
 }
+.nav {
+    display: inline;
+    float: inline-end;
+}
+.li {
+    display: inline;
+    float: right;
+    background-color: darkslategray;
+    columns: 5;
+    height: 30px;
+}
