@@ -22,7 +22,7 @@
     color: crimson;
 }
 .well {
-    color: chocolate;
+    color: rgb(23, 12, 82);
 }
 .card-body {
     color: green;
@@ -32,4 +32,7 @@
 }
 .bg-success {
     color: darkblue;
+}
+,bg-danger {
+    color: darkmagenta;
 }
